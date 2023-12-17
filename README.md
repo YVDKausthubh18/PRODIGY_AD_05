@@ -6,6 +6,7 @@ This QR code scanner gives us like it scans the QR code and it opens the URL lin
 # Technologies Used
 
 1. Python
+2. Python--GUI--TKINTER
 
 # Sample GUI Interface - 
 
